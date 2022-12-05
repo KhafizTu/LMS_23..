@@ -23,29 +23,5 @@ public class Main {
         System.out.println("Arrays  Sort : "+Arrays.toString(num));
 
 
-//        int []numbers=new int[5];
-//        for (int i = 0; i < numbers.length; i++) {
-//
-//            linkedList.add(0,1);
-//            arrayList.add(0,2);
-//            numbers[i]= random.nextInt(0,2);
-//
-////            Collections.sort(linkedList);
-////            System.out.println(linkedList);
-//
-//            sort(arrayList);
-//            sort(linkedList);
-//        }
-//    }public static void sort(ArrayList<Integer>arrayList){
-//        Collections.sort(arrayList);
-//        for (Integer a:arrayList) {
-//            System.out.println(a);
-//        }
-//    }public static void sort(LinkedList<Integer>linkedList){
-//        Collections.sort(linkedList);
-//        for (Integer b:linkedList) {
-//            System.out.println(b);
-//        }
-
     }
 }
